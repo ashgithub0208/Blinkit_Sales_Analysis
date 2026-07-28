@@ -323,8 +323,8 @@ Aspiring Data Analyst passionate about transforming raw data into actionable bus
 
 ### Connect with Me
 
-- 💼 LinkedIn: *([Add your LinkedIn Profile URL](https://www.linkedin.com/in/ashmit-srivastava0208/))*
-- 💻 GitHub: *([Add your GitHub Profile URL](https://github.com/ashgithub0208))*
+- 💼 LinkedIn: *([ LinkedIn](https://www.linkedin.com/in/ashmit-srivastava0208/))*
+- 💻 GitHub: *([GitHub](https://github.com/ashgithub0208))*
 
 ---
 
